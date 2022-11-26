@@ -77,11 +77,18 @@ p {
     line-height: 2.7;
 }
 
-.skill-row{
+.skill-row {
     margin: 100px auto 100px;
     width: 50%;
     text-align: left;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
+}
+
+.skill-row2 {
+    margin: 100px auto 100px;
+    width: 50%;
+    text-align: left;
+    padding-bottom: 75px;
 }
 .sound {
     width: 25%;
